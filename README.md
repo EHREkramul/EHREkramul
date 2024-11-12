@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ekramul Haque</h1>
-<h3 align="center">Passionate Mobile App Developer | Lifelong Learner & Technology Enthusiast</h3>
+<h4 align="center">Lifelong Learner | Technology Enthusiast</h4>
 
 
 - 🌱 Currently learning: **Flutter-Dart**
