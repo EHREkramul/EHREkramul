@@ -7,6 +7,7 @@
 - 📫 Reach me at: **ehr.ekramul@gmail.com**
 
 
+
 ### Connect with me
 
 <p align="left">
@@ -14,6 +15,8 @@
 <a href="https://twitter.com/ehrekramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehrekramul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17507562/ekramul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ekramul-haque" height="30" width="40" /></a>
 </p>
+
+
 
 ### Languages & Tools
 
@@ -50,18 +53,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
+
+
 ### Github Stats
 
-<a href="https://github.com/ehrekramul"> <img align="center" alt="ehrekramul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ehrekramul&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> </a> 
+<a href="https://github.com/ehrekramul"> <img align="center" alt="Ekramul Haque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ehrekramul&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> </a> 
 <br/> <br/> 
-<a href="https://github.com/ehrekramul"> <img align="center" alt="ehrekramul's GitHub Stats" src="https://streak-stats.demolab.com?user=ehrekramul&theme=dracula" /> </a>
- <br/> <br/> 
- <a href="https://github.com/ehrekramul"> <img align="center" alt="ehrekramul's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehrekramul&layout=compact&theme=dracula&hide=html,css,cmake,php,jupyter%20notebook" /> </a>
- <br/>
+<a href="https://github.com/ehrekramul"> <img align="center" alt="Ekramul Haque's GitHub Stats" src="https://streak-stats.demolab.com?user=ehrekramul&theme=dracula" /> </a>
+<br/> <br/> 
+<a href="https://github.com/ehrekramul"> <img align="center" alt="Ekramul Haque's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehrekramul&layout=compact&theme=dracula&hide=html,css,cmake,php,jupyter%20notebook" /> </a>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehrekramul" alt="ehrekramul" /></a> </p>
 
-<p align="center"> 
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/ehrekramul/count.svg" />
-</p>
+<p align="center"> Visitors<br><img src="https://profile-counter.glitch.me/ehrekramul/count.svg" /></p>
