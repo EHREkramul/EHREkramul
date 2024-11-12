@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning: **Flutter-Dart**
 
-- 📫 Reach me at: **<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">ehr.ekramul@gmail.com</a>**
+- 📫 Reach me at: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">ehr.ekramul@gmail.com</a>
 
 
 
