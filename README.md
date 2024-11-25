@@ -2,7 +2,7 @@
 <h4 align="center">Lifelong Learner | Technology Enthusiast</h4>
 
 
-- 🌱 Currently learning: **Flutter-Dart**
+- 🌱 Currently learning: **Flutter-Dart**, **NestJS**
 
 - 📫 Reach me at: **ehr.ekramul@gmail.com**
 
