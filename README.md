@@ -60,8 +60,6 @@
 
 <a href="https://github.com/ehrekramul"> <img align="center" alt="Ekramul Haque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ehrekramul&show_icons=true&hide_border=false&count_private=true&hide=contribs&include_all_commits=true&theme=dracula" /> </a> 
 <br/> <br/> 
-<a href="https://github.com/ehrekramul"> <img align="center" alt="Ekramul Haque's GitHub Stats" src="https://streak-stats.demolab.com?user=ehrekramul&theme=dracula" /> </a>
-<br/> <br/> 
 <a href="https://github.com/ehrekramul"> <img align="center" alt="Ekramul Haque's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehrekramul&layout=compact&theme=dracula&hide=html,css,cmake,php,jupyter%20notebook" /> </a>
 <br/>
 
