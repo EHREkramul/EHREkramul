@@ -50,12 +50,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img width="100%" src="https://raw.githubusercontent.com/EHREkramul/EHREkramul/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="49%" src="https://raw.githubusercontent.com/EHREkramul/EHREkramul/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/EHREkramul/EHREkramul/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 
 <p align="center">
