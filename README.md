@@ -53,12 +53,12 @@
 
 <h4 align="center">Mobile & Desktop</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,tauri,electron&perline=10" alt="Mobile and desktop" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=10" alt="Mobile and desktop" />
 </p>
 
 <h4 align="center">DevOps & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,linux,git,github&perline=10" alt="DevOps and cloud" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,nginx,vercel,linux,git,github&perline=10" alt="DevOps and cloud" />
 </p>
 
 <h4 align="center">AI & Agentic Engineering</h4>
