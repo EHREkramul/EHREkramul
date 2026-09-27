@@ -43,7 +43,7 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,rust,py,html,css&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,dart,cpp,cs,rust,html,css&perline=10" alt="Languages" />
 </p>
 
 <h4 align="center">Web & Backend</h4>
@@ -58,7 +58,7 @@
 
 <h4 align="center">DevOps & Cloud</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,nginx,vercel,linux,git,github&perline=10" alt="DevOps and cloud" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,vercel,linux,git,github&perline=10" alt="DevOps and cloud" />
 </p>
 
 <h4 align="center">AI & Agentic Engineering</h4>
