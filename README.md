@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ekramul%20Haque&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=56&descSize=18&animation=fadeIn" alt="Ekramul Haque banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ekramul%20Haque&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=56&descSize=18&animation=fadeIn" alt="Ekramul Haque banner" width="100%" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/EHREkramul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ekramul+Haque+%F0%9F%91%8B;Junior+Full-Stack+Engineer+%40+Deepchain+Labs;Building+things+for+the+web+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ekramul+Haque+%F0%9F%91%8B;Software+Engineer;Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop+%E2%80%A2+Cloud;Agentic+Coding+%26+Multi-Agent+Systems+%F0%9F%A4%96;DevOps+%E2%80%A2+CI%2FCD+%E2%80%A2+Deployment+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,23 +28,46 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd face" width="120" />
 
-- 💼 **Junior Full-Stack Engineer** at **Deepchain Labs**
-- 🌱 Constantly exploring new tools, frameworks and better ways to build software
-- 🤝 Open to collaborating on interesting open-source projects
-- 💬 Ask me about **web development, APIs and full-stack architecture**
+- 💼 **Software Engineer** building products end to end, from idea to production
+- 🌐 **Web & Backend**: full-stack web apps, APIs and scalable services
+- 📱 **Mobile & Cross-Platform**: Flutter and React Native apps for Android & iOS
+- 🖥️ **Desktop**: cross-platform desktop apps with Rust, Tauri and Electron
+- ⚙️ **DevOps**: containers, CI/CD pipelines, cloud deployment and automation
+- 🤖 **AI Engineering**: agentic coding, orchestrating multiple AI agents, and prompt, goal & loop engineering
+- 🌱 Always exploring new tools and better ways to ship software
 - 📫 Reach me at **[ehr.ekramul@gmail.com](mailto:ehr.ekramul@gmail.com)**
-- ⚡ Fun fact: I believe the best way to learn is to build
 
 <br clear="right" />
 
 ## 🛠️ Tech Stack
 
+<h4 align="center">Languages</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nestjs,tailwind&perline=10" alt="Languages and frameworks" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,git,github,linux,vscode,postman&perline=10" alt="Databases and tools" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,rust,py,html,css&perline=10" alt="Languages" />
+</p>
+
+<h4 align="center">Web & Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind,mongodb,postgres,mysql,redis&perline=10" alt="Web and backend" />
+</p>
+
+<h4 align="center">Mobile & Desktop</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,tauri,electron&perline=10" alt="Mobile and desktop" />
+</p>
+
+<h4 align="center">DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,nginx,vercel,linux,git,github&perline=10" alt="DevOps and cloud" />
+</p>
+
+<h4 align="center">AI & Agentic Engineering</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_Coding-7C3AED?style=for-the-badge" alt="Agentic Coding" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-2563EB?style=for-the-badge" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Goal_%26_Loop_Engineering-14B8A6?style=for-the-badge" alt="Goal and Loop Engineering" />
+  <img src="https://img.shields.io/badge/LLM_Integration-F59E0B?style=for-the-badge" alt="LLM Integration" />
 </p>
 
 ## 📊 GitHub Stats
