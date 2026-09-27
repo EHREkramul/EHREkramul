@@ -33,7 +33,7 @@
 - 📱 **Mobile & Cross-Platform**: Flutter and React Native apps for Android & iOS
 - 🖥️ **Desktop**: cross-platform desktop apps with Rust, Tauri and Electron
 - ⚙️ **DevOps**: containers, CI/CD pipelines, cloud deployment and automation
-- 🤖 **AI Engineering**: agentic coding, multi-agent orchestration & harnesses, and prompt, goal & loop engineering
+- 🤖 **AI Engineering**: agentic coding, building custom AI agents, multi-agent orchestration & harnesses, and prompt, goal & loop engineering
 - 🌱 Always exploring new tools and better ways to ship software
 - 📫 Reach me at **[ehr.ekramul@gmail.com](mailto:ehr.ekramul@gmail.com)**
 
@@ -64,6 +64,7 @@
 <h4 align="center">AI & Agentic Engineering</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic_Coding-7C3AED?style=for-the-badge" alt="Agentic Coding" />
+  <img src="https://img.shields.io/badge/Custom_AI_Agents-DB2777?style=for-the-badge" alt="Custom AI Agents" />
   <img src="https://img.shields.io/badge/Multi--Agent_Orchestration_%26_Harness-2563EB?style=for-the-badge" alt="Multi-Agent Orchestration & Harness" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Loop_Engineering-14B8A6?style=for-the-badge" alt="Loop Engineering" />
