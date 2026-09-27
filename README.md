@@ -53,7 +53,7 @@
 
 <h4 align="center">Mobile & Desktop</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio&perline=10" alt="Mobile and desktop" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,tauri,electron&perline=10" alt="Mobile and desktop" />
 </p>
 
 <h4 align="center">DevOps & Cloud</h4>
