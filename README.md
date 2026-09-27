@@ -66,7 +66,8 @@
   <img src="https://img.shields.io/badge/Agentic_Coding-7C3AED?style=for-the-badge" alt="Agentic Coding" />
   <img src="https://img.shields.io/badge/Multi--Agent_Orchestration_%26_Harness-2563EB?style=for-the-badge" alt="Multi-Agent Orchestration & Harness" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Goal_%26_Loop_Engineering-14B8A6?style=for-the-badge" alt="Goal and Loop Engineering" />
+  <img src="https://img.shields.io/badge/Loop_Engineering-14B8A6?style=for-the-badge" alt="Loop Engineering" />
+  <img src="https://img.shields.io/badge/Goal_Engineering-10B981?style=for-the-badge" alt="Goal Engineering" />
   <img src="https://img.shields.io/badge/LLM_Integration-F59E0B?style=for-the-badge" alt="LLM Integration" />
 </p>
 
